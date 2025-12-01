@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Line 1" > iacta
+echo "Line 2" >> iacta
+echo "Line 3" >> iacta
+echo "Line 4" >> iacta
+echo "Line 5" >> iacta
